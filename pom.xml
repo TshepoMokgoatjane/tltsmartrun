@@ -12,7 +12,7 @@
 	<artifactId>smartrun</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>smartrun</name>
-	<description>TLT Production Smart Run App</description>
+	<description>TLT Smart Run Web App</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
